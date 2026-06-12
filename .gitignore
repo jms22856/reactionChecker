@@ -1,0 +1,10 @@
+#Folders
+__pycache__/
+.venv/
+build/
+
+#log file
+PAC.log
+
+#Misc
+app.spec
