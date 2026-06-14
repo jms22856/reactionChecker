@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Consider citing this software if you use it."
 authors:
 - family-names: Sun
-- given-names: Justin
+  given-names: Justin
 title: "Basic Pathways Mutual Autocatalysis Checker"
 version: 1.0.0
 date-released: 2026-06-12
